@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gunungvip.github.io/gng/sitemap.xml
